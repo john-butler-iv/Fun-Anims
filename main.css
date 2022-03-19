@@ -1,0 +1,10 @@
+body {
+	color: #d8dee9;
+	background-color: #2e3440;
+	font-family: 'Courier New', Courier, monospace;
+}
+
+a:any-link {
+	color: #81a1c1;
+	text-decoration: none;
+}
